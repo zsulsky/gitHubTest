@@ -22,14 +22,14 @@
 		D7AF7EF7159BC5B5007D783F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D7AF7EF9159BC5B5007D783F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D7AF7EFB159BC5B5007D783F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D7AF7EFF159BC5B5007D783F /* gitHubTest-Info.plist */ = {isa = PBXFileReference; path = "gitHubTest-Info.plist"; sourceTree = "<group>"; };
+		D7AF7EFF159BC5B5007D783F /* gitHubTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "gitHubTest-Info.plist"; sourceTree = "<group>"; };
 		D7AF7F01159BC5B5007D783F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D7AF7F03159BC5B5007D783F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D7AF7F05159BC5B5007D783F /* gitHubTest-Prefix.pch */ = {isa = PBXFileReference; path = "gitHubTest-Prefix.pch"; sourceTree = "<group>"; };
-		D7AF7F06159BC5B5007D783F /* gitHubTestAppDelegate.h */ = {isa = PBXFileReference; path = gitHubTestAppDelegate.h; sourceTree = "<group>"; };
+		D7AF7F05159BC5B5007D783F /* gitHubTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "gitHubTest-Prefix.pch"; sourceTree = "<group>"; };
+		D7AF7F06159BC5B5007D783F /* gitHubTestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gitHubTestAppDelegate.h; sourceTree = "<group>"; };
 		D7AF7F07159BC5B5007D783F /* gitHubTestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitHubTestAppDelegate.m; sourceTree = "<group>"; };
 		D7AF7F0A159BC5B5007D783F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		D7AF7F0C159BC5B5007D783F /* gitHubTestViewController.h */ = {isa = PBXFileReference; path = gitHubTestViewController.h; sourceTree = "<group>"; };
+		D7AF7F0C159BC5B5007D783F /* gitHubTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gitHubTestViewController.h; sourceTree = "<group>"; };
 		D7AF7F0D159BC5B5007D783F /* gitHubTestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitHubTestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
